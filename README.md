@@ -1,4 +1,4 @@
-# MotionCapture
+# Motion Capture System
 Motion capture system using optitrack cameras.
 1.Calibration
 Using "calibration" dir. Input the sync captured points from all cameras, and output the intrinsic and extrinsic paras.
