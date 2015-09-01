@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Mocap", "Mocap\Mocap.vcxproj", "{CF5D5499-9113-40FA-AD99-BCA2A0B23EDA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "INIParser", "INIParser\INIParser.vcxproj", "{E82D96A5-2B44-4DC5-91F7-B3E1A4BEF634}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF5D5499-9113-40FA-AD99-BCA2A0B23EDA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CF5D5499-9113-40FA-AD99-BCA2A0B23EDA}.Debug|Win32.Build.0 = Debug|Win32
+		{CF5D5499-9113-40FA-AD99-BCA2A0B23EDA}.Release|Win32.ActiveCfg = Release|Win32
+		{CF5D5499-9113-40FA-AD99-BCA2A0B23EDA}.Release|Win32.Build.0 = Release|Win32
+		{E82D96A5-2B44-4DC5-91F7-B3E1A4BEF634}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E82D96A5-2B44-4DC5-91F7-B3E1A4BEF634}.Debug|Win32.Build.0 = Debug|Win32
+		{E82D96A5-2B44-4DC5-91F7-B3E1A4BEF634}.Release|Win32.ActiveCfg = Release|Win32
+		{E82D96A5-2B44-4DC5-91F7-B3E1A4BEF634}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

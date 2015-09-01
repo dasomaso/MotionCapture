@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>img/1.png</file>
+        <file>img/2.png</file>
+        <file>img/3.png</file>
+        <file>img/4.png</file>
+        <file>img/5.png</file>
+        <file>img/6.png</file>
+        <file>img/camera.png</file>
+        <file>img/folder.png</file>
+        <file>img/wand.jpg</file>
+        <file>img/noise1.jpg</file>
+        <file>img/no-noise.jpg</file>
+        <file>img/skeleton.png</file>
+        <file>img/playlive.png</file>
+        <file>img/reconstruction.png</file>
+        <file>img/accuracy.jpg</file>
+        <file>img/markerloss.jpg</file>
+        <file>img/36/export.png</file>
+        <file>img/36/import.png</file>
+    </qresource>
+    <qresource prefix="/36images">
+        <file>img/36/accuracy.png</file>
+        <file>img/36/camera.png</file>
+        <file>img/36/denoise.png</file>
+        <file>img/36/dynamiccalibration.png</file>
+        <file>img/36/folder.png</file>
+        <file>img/36/joint.png</file>
+        <file>img/36/label.png</file>
+        <file>img/36/markerloss.png</file>
+        <file>img/36/play.png</file>
+        <file>img/36/reconstruction.png</file>
+        <file>img/36/retarget.png</file>
+        <file>img/36/skeleton.png</file>
+        <file>img/36/stop.png</file>
+        <file>img/36/staticcalibration.png</file>
+        <file>img/36/export.png</file>
+        <file>img/36/import.png</file>
+        <file>img/36/about.png</file>
+        <file>img/36/calculator.png</file>
+        <file>img/36/floor.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,58 @@
+﻿生成启动时间为 2015/9/1 10:43:06。
+     1>项目“F:\workspace\Qt\Mocap\INIParser\INIParser.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Debug\INIParser.lastbuildstate”。
+       InitializeBuildStatus:
+         正在创建“Debug\INIParser.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\application\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ID:\Library\opencv\build\include /ID:\Library\opencv\build\include\opencv /ID:\Library\opencv\build\include\opencv2 /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt dictionary.cpp INIHelper.cpp iniparser.cpp
+         iniparser.cpp
+     1>f:\workspace\qt\mocap\iniparser\iniparser.cpp(90): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\application\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>f:\workspace\qt\mocap\iniparser\iniparser.cpp(237): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\application\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>f:\workspace\qt\mocap\iniparser\iniparser.cpp(465): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\application\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>f:\workspace\qt\mocap\iniparser\iniparser.cpp(477): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\application\microsoft visual studio 10.0\vc\include\stdio.h(325) : 参见“sscanf”的声明
+     1>f:\workspace\qt\mocap\iniparser\iniparser.cpp(478): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\application\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>f:\workspace\qt\mocap\iniparser\iniparser.cpp(479): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\application\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>f:\workspace\qt\mocap\iniparser\iniparser.cpp(483): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\application\microsoft visual studio 10.0\vc\include\stdio.h(325) : 参见“sscanf”的声明
+     1>f:\workspace\qt\mocap\iniparser\iniparser.cpp(485): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\application\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>f:\workspace\qt\mocap\iniparser\iniparser.cpp(486): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\application\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>f:\workspace\qt\mocap\iniparser\iniparser.cpp(487): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\application\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>f:\workspace\qt\mocap\iniparser\iniparser.cpp(497): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\application\microsoft visual studio 10.0\vc\include\stdio.h(325) : 参见“sscanf”的声明
+     1>f:\workspace\qt\mocap\iniparser\iniparser.cpp(504): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\application\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>f:\workspace\qt\mocap\iniparser\iniparser.cpp(505): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\application\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>f:\workspace\qt\mocap\iniparser\iniparser.cpp(546): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\application\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>f:\workspace\qt\mocap\iniparser\iniparser.cpp(600): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\application\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+         INIHelper.cpp
+     1>f:\workspace\qt\mocap\iniparser\inihelper.cpp(61): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+         dictionary.cpp
+     1>f:\workspace\qt\mocap\iniparser\dictionary.cpp(74): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\application\microsoft visual studio 10.0\vc\include\string.h(105) : 参见“strcpy”的声明
+         正在生成代码...
+       Lib:
+         D:\application\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"F:\workspace\Qt\Mocap\Debug\INIParser.lib" /NOLOGO Debug\dictionary.obj
+         Debug\INIHelper.obj
+         Debug\iniparser.obj
+         INIParser.vcxproj -> F:\workspace\Qt\Mocap\Debug\INIParser.lib
+       FinalizeBuildStatus:
+         正在删除文件“Debug\INIParser.unsuccessfulbuild”。
+         正在对“Debug\INIParser.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\workspace\Qt\Mocap\INIParser\INIParser.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.27

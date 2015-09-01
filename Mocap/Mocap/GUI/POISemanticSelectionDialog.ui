@@ -1,0 +1,23 @@
+<UI version="4.0" >
+ <class>POISemanticSelectionDialog</class>
+ <widget class="QDialog" name="POISemanticSelectionDialog" >
+  <property name="objectName" >
+   <string notr="true">POISemanticSelectionDialog</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+	<x>0</x>
+	<y>0</y>
+	<width>400</width>
+	<height>300</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>POISemanticSelectionDialog</string>
+  </property>  
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources/>
+ <connections/>
+</UI>

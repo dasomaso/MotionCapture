@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MocapClass</class>
+ <widget class="QMainWindow" name="MocapClass">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>642</width>
+    <height>558</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Mocap</string>
+  </property>
+  <widget class="QWidget" name="centralWidget"/>
+  <widget class="QStatusBar" name="statusBar"/>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources>
+  <include location="mocap.qrc"/>
+ </resources>
+ <connections/>
+ <slots>
+  <slot>StartReconstruction()</slot>
+  <slot>StopReconstruction()</slot>
+  <slot>StartCalibration()</slot>
+  <slot>InitCamera()</slot>
+  <slot>LoadCalibrationResult()</slot>
+  <slot>InitDenoising()</slot>
+  <slot>PlayLive()</slot>
+  <slot>StaticCalibration()</slot>
+  <slot>CalculateAccuracy()</slot>
+  <slot>CalculateMarkerLoss()</slot>
+ </slots>
+</ui>
